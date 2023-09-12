@@ -1,8 +1,7 @@
 """Interfaces with PyGame."""
 # pygame: disable = import-error
 import pygame
-import threading
-from decorators import debug
+from source.decorators import debug
 
 
 @debug
