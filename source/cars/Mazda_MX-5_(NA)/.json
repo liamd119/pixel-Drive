@@ -1,0 +1,7 @@
+{"name":  "Mazda MX-5 (NA)",
+  "dyno_chart": {
+    "rpm_values": [2000, 1000, 7000],
+    "units": {"torque": "lb-ft", "power": "hp"},
+    "data": [[85, 31], [90, 50], [91,69], [96,90], [82,98], [61,81]]
+  }
+}

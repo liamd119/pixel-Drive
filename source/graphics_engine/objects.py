@@ -2,7 +2,7 @@
 # pylint: disable = import-error
 
 import pygame
-from constants import DIMENSIONS
+from source.constants import DIMENSIONS
 
 
 class GameLoop:
